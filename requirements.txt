@@ -12,3 +12,9 @@ numpy
 matplotlib
 scikit-learn
 ipykernel
+requests==2.32.3
+urllib3==2.2.3
+catboost
+seaborn
+statsmodels>=0.14.2
+pmdarima
